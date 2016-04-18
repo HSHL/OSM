@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RCC version="1.0">
+    <qresource>
+        
+        <file>files/01.png</file>
+        <file>files/02.png</file>
+        <file>files/03.png</file>
+        <file>files/04.png</file>
+        <file>files/05.png</file>
+        <file>files/06.png</file>
+        
+    </qresource>
+</RCC>
